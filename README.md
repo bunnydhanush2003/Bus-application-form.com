@@ -3,7 +3,7 @@
     <head>
  <style>
      .head{
-     height: 15pt;
+     height: 355pt;
      width: 115pt;
      
      background-color: royalblue;
@@ -15,7 +15,7 @@
      
     }
     .box{
-        height: 95%;
+        height: 100%;
      width: 90%;
      padding-left: 10pt;
      background-color: rgb(182, 198, 245);
@@ -26,7 +26,7 @@
      
     }
     .box1{
-        height: 95%;
+        height: 100%;
      width:90%;
      padding-left: 10pt;
      background-color: rgb(182, 198, 245);
