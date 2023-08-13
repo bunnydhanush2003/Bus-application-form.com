@@ -3,7 +3,7 @@
     <head>
  <style>
      .head{
-     height: 355pt;
+     height: 25pt;
      width: 115pt;
      
      background-color: royalblue;
