@@ -1,10 +1,10 @@
-
+<!DOCTYPE html>
 <html>
     <head>
  <style>
      .head{
-     height: 25pt;
-     width: 115pt;
+     height: 15%;
+     width: 80%;
      
      background-color: royalblue;
      border-bottom-left-radius: 4pt;
@@ -15,7 +15,7 @@
      
     }
     .box{
-        height: 100%;
+        height: 90%;
      width: 90%;
      padding-left: 10pt;
      background-color: rgb(182, 198, 245);
@@ -26,7 +26,7 @@
      
     }
     .box1{
-        height: 100%;
+        height: 90%;
      width:90%;
      padding-left: 10pt;
      background-color: rgb(182, 198, 245);
@@ -89,8 +89,7 @@
         </div>
         <br>
         <div class="head">
-            2.Student details
-            
+            2.student details
         </div>
 <div class="box1">
     <form>
@@ -134,8 +133,7 @@
 </div>
 <br>
 <div class="head">
-  3. Address details
-    
+  3.address detials
 </div>
 <div class="box">
 <form>
