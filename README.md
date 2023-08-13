@@ -15,7 +15,7 @@
      
     }
     .box{
-        height: 105pt;
+        height: 130pt;
      width: 90%;
      padding-left: 10pt;
      background-color: rgb(182, 198, 245);
@@ -26,7 +26,7 @@
      
     }
     .box1{
-        height: 145pt;
+        height: 165pt;
      width:90%;
      padding-left: 10pt;
      background-color: rgb(182, 198, 245);
