@@ -15,7 +15,7 @@
      
     }
     .box{
-        height: 160pt;
+        height: 210pt;
      width: 90%;
      padding-left: 10pt;
      background-color: rgb(182, 198, 245);
@@ -89,7 +89,8 @@
         </div>
         <br>
         <div class="head">
-            2.student details
+            2.Student details
+            
         </div>
 <div class="box1">
     <form>
@@ -133,7 +134,8 @@
 </div>
 <br>
 <div class="head">
-  3.address detials
+  3. Address details
+    
 </div>
 <div class="box">
 <form>
