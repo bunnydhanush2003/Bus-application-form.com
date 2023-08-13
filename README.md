@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
  <style>
@@ -11,7 +11,7 @@
      border-top-left-radius: 4pt;
      border-bottom-right-radius: 4pt;
      border-top-right-radius: 4pt;
-     padding: 10ft;
+     
      
     }
     .box{
@@ -23,7 +23,7 @@
      border-top-left-radius: 3pt;
      border-bottom-right-radius: 3pt;
      border-top-right-radius: 3pt;
-     padding: 10ft;
+     
     }
     .box1{
         height: 145pt;
@@ -34,7 +34,7 @@
      border-top-left-radius: 3pt;
      border-bottom-right-radius: 3pt;
      border-top-right-radius: 3pt;
-     padding: 10ft;
+     
     }
  </style>
     </head>
